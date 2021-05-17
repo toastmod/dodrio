@@ -45,7 +45,7 @@ xxx-unstable-internal-use-only = []
 bumpalo = "2.6.0"
 cfg-if = "0.1.10"
 fxhash = "0.2.1"
-js-sys = "0.3.51"
+js-sys = "0.3.46"
 log = { version = "0.4.11", optional = true }
 longest-increasing-subsequence = "0.1.0"
 serde = { version = "1.0.114", optional = true }
